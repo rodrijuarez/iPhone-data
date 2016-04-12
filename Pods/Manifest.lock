@@ -1,0 +1,28 @@
+PODS:
+  - LoremIpsum (1.0.0)
+  - ReachabilitySwift (2.3.3)
+  - SlackTextViewController (1.9.1)
+  - SystemServices (1.1.0)
+
+DEPENDENCIES:
+  - LoremIpsum (~> 1.0)
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+  - SlackTextViewController
+  - SystemServices
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: fa90df50c04f5743fbdf643cbe8d10562d75673d
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  LoremIpsum: 9029c55d36501b2ee0b05cc9ecda11d3a0479160
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SlackTextViewController: 6b0d1030c53937226fc5358f217af2a34fc211cf
+  SystemServices: 00d3516e0f9c233ba7b61c9853d199dd5e9f5643
+
+COCOAPODS: 0.39.0
